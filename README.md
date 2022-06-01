@@ -1,16 +1,24 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
 
-<!--
-**Hailegebriel22/Hailegebriel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</head>
+<body>
+  <h1>Hi 👋  Good To See You</h1>
+<p>I am Hailegebriel. <br>
+I really love to code and advance my skills while developing and improving web based application.</p>
+  
+ 
+- 🌱  I’m currently a student at HackYourFuture.
+- 👯 I’m looking to collaborate with a company or organization, which has a project on web based application.
+- 🤔 I’m looking for a project, where I can join a team and work on solving real world problems. 
+- 📫 How to reach me: <a>https://www.linkedin.com/in/hailegebriel-asrat-9a1228159/<a>
+- 😄 Pronouns: He/His/Him
+<footer>
+  <h5>Skills<h5>
+  <img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" height="100vh" width= "fit-content">
+  </footer>
+</body>  
+</html>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
